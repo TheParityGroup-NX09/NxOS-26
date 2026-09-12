@@ -1,3 +1,4 @@
+#include "utils.hpp"
 
 unsigned int ram_format = 1024;
 struct multiboot_info
