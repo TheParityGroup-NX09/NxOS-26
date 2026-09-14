@@ -1,4 +1,4 @@
-#include "drivers/vga.hpp"
+#include "vga.hpp"
 #include "terminal.hpp"
 
 unsigned char VGA_BLACK = 0x0;
